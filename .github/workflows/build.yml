@@ -10,7 +10,7 @@ jobs:
     runs-on: windows-latest
     steps: 
     − name: print_working_directory
-          run: pwd
+        run: pwd
 
-      − name:  hi
-          run: echo "Hiiii!"
+    − name:  hi
+        run: echo "Hiiii!"
