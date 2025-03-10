@@ -9,8 +9,8 @@ jobs:
   build_web:
     runs-on: windows-latest
     steps: 
-    − name: print_working_directory
+      − name: print_working_directory
         run: pwd
 
-    − name:  hi
+      − name:  hi
         run: echo "Hiiii!"
