@@ -23,6 +23,6 @@ jobs:
         - name: ls
           run: ls
         - name: ls_site
-          run: ls_site
+          run: ls _site
 
             
